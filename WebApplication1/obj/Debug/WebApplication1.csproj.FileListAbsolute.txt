@@ -1,0 +1,14 @@
+D:\Job\project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Job\project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Job\project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Job\project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Job\project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Job\project\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\Job\project\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+D:\Job\project\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\Job\project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Job\project\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\Job\project\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+D:\Job\project\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\Job\project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Job\project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
